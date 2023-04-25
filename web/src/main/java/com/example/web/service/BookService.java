@@ -1,7 +1,6 @@
 package com.example.web.service;
 
 import com.example.web.model.Book;
-import com.example.web.model.Category;
 import com.example.web.model.dto.BookDto;
 
 import java.util.List;

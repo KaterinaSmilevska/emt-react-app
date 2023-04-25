@@ -1,6 +1,6 @@
 package com.example.web.model.dto;
 
-import com.example.web.model.Category;
+import com.example.web.model.enumerations.Category;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;
 

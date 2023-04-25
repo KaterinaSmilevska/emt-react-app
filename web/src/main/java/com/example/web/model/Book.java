@@ -1,5 +1,6 @@
 package com.example.web.model;
 
+import com.example.web.model.enumerations.Category;
 import jakarta.persistence.*;
 
 @Entity

@@ -1,6 +1,6 @@
 package com.example.web.web;
 
-import com.example.web.model.Category;
+import com.example.web.model.enumerations.Category;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
